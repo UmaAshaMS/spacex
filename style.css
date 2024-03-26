@@ -13,9 +13,10 @@
     z-index: 9999;    
 }
 .First Image{
-    width:100px;
+    width:10%;
     height:50px;
-    text-align: left;
+    filter: brightness(0) saturate(100%) invert(0%) sepia(33%) saturate(3859%) hue-rotate(57deg) brightness(103%) contrast(99%);
+    
 
 }
 .fill-white{
