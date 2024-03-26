@@ -10,9 +10,13 @@
     left: 50px;
     background: transparent;
     color: white;
-    z-index: 9999;
-    
-     
+    z-index: 9999;    
+}
+.First Image{
+    width:100px;
+    height:50px;
+    text-align: left;
+
 }
 .fill-white{
     width:24px;
